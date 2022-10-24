@@ -1,13 +1,10 @@
 {
-  "name": "พนัน - เว็บพนัน ufa365(ยูฟ่า365) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "ZrQTd84styhpJDMU7H61Ax3ofX34AO8rw5lScLU3CTStoDxEGi",
   "theme": "syntax",
   "version": "1.0.6",
-  "description": "พนัน ทดลองเล่นฟรี แม้ว่า พนัน ที่ UFA365 เว็บพนัน มีเกมพนันทุกชนิด ที่ห้องเกม Itp หรือตรงเมนูไพ่ Mp พนัน Poker ในเวอร์ชั่นทางเข้ามือถือ หนึ่งทางเลือกให้คุณ",
+  "description": "การพนัน สล็อตไซอิ๋ว หาก การพนัน ที่ Dafabet เว็บพนัน มีเกมพนันทุกชนิด นั้นจะมีเครื่องหมาย Wild ที่ใช้แทนเครื่องหมายอื่นๆ( เว้นเสียแต่เครื่องหมาย Scatter ) ",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "พนัน",
-    "พนัน UFA365"
-  ],
+  "keywords": ["การพนัน","การพนัน Dafabet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
