@@ -1,10 +1,13 @@
 {
-  "name": "mVMP2OpWAwISDP9WPxMFrsvmcb4a9amFK7AaHjBzIZpyDBmjrf",
+  "name": "คาสิโน - เว็บพนัน 1688sagame(1688เอสเอเกมส์) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "คาสิโน สำหรับท่านที่เป็นคอหวย อย่างไรก็ตาม คาสิโน ที่ 1688SAGame เว็บพนัน อันดับหนึ่ง มีความต้องการและสนใจที่จะเล่นหวยกับเรา ไปพร้อม ๆ กับการเล่นเกมออนไลน์",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["คาสิโน","คาสิโน 1688SAGame"],
+  "keywords": [
+    "คาสิโน",
+    "คาสิโน 1688SAGame"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
