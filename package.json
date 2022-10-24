@@ -1,10 +1,13 @@
 {
-  "name": "EHR1QbufA3vO2fjlNCHSmSzYjipuhz7x3b2cfLgiWZeaPe1EuC",
+  "name": "พนัน - เว็บพนัน ufa365(ยูฟ่า365) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "พนัน ทดลองเล่นฟรี แม้ว่า พนัน ที่ UFA365 เว็บพนัน มีเกมพนันทุกชนิด ที่ห้องเกม Itp หรือตรงเมนูไพ่ Mp พนัน Poker ในเวอร์ชั่นทางเข้ามือถือ หนึ่งทางเลือกให้คุณ",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["พนัน","พนัน UFA365"],
+  "keywords": [
+    "พนัน",
+    "พนัน UFA365"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
