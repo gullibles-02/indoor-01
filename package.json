@@ -1,13 +1,10 @@
 {
-  "name": "คาสิโน ทำไมถึงนิยม",
+  "name": "lC4pUmVJXzVv1TyIQiOZ4fwzxXVhr2ld2E9ltE0S7rMvPvA5QN",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "คาสิโน โปรโมชั่นฝาก ถึง คาสิโน ที่ UFAC4 เว็บพนัน อันดับหนึ่ง 15 รับ 100 ถอนไม่อั้น กับเว็บ Rcg168 นั้นสามารถใช้บริการได้ทั้งยังสมาชิกใหม่และก็สมาชิกเก่า โ",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "คาสิโน",
-    "คาสิโน UFAC4"
-  ],
+  "keywords": ["คาสิโน","คาสิโน UFAC4"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
