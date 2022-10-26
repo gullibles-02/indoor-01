@@ -1,10 +1,13 @@
 {
-  "name": "F9H9V0qkT4APLZixXYpzeDX2tgGWQMXGBM6BcIw8Rdbpdl9IiK",
+  "name": "ผลเยอรมันวันนี้ - เว็บพนัน lotto(ล็อตโต้) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.14",
   "description": "ผลเยอรมันวันนี้ สมัครซื้อหวยพม่า หาก ผลเยอรมันวันนี้ Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด หวยออนไลน์ บนเว็บไซต์ Mughuay เว็บบริการรับซื้อหวยออนไลน์ทุกชนิด",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["ผลเยอรมันวันนี้","ผลเยอรมันวันนี้ Lotto"],
+  "keywords": [
+    "ผลเยอรมันวันนี้",
+    "ผลเยอรมันวันนี้ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
