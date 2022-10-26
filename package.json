@@ -1,10 +1,13 @@
 {
-  "name": "gSakCF4c9bcdkomMYRzEyxmWR7sFxn8cCoAi6BOpYO29fWDaiT",
+  "name": "พนันออนไลน์ สมัครยังไง",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "พนันออนไลน์ เพราะเว็บไซต์ของเรานั้นเป็ฯเว็บไซต์ อย่างไรก็ดี พนันออนไลน์ ที่ Slot888 เว็บพนัน มีเกมพนันทุกชนิด สมัครสล็อต Pp ที่เล่นได้ง่ายๆไม่ว่าจะอยู่ที่ไ",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["พนันออนไลน์","พนันออนไลน์ Slot888"],
+  "keywords": [
+    "พนันออนไลน์",
+    "พนันออนไลน์ Slot888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
