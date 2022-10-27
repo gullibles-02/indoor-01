@@ -1,13 +1,10 @@
 {
-  "name": "แทงมวยออนไลน์ แตกต่างกันอย่างไร",
+  "name": "q86PcnRETJzcJq6jrW8HxilLRnoYhnT0mRYGgFDltQTm4zr0Ht",
   "theme": "syntax",
   "version": "1.0.95",
   "description": "แทงมวยออนไลน์ ทดลองเล่นสล็อตกับเว็บตรงที่มีความมั่นคงสูง กับ แทงมวยออนไลน์ ที่ Slot888 เว็บพนัน มีเกมพนันทุกชนิด แทงมวยออนไลน์ แม้จะไม่สมัครสมาชิกเข้ามาทาง",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "แทงมวยออนไลน์",
-    "แทงมวยออนไลน์ Slot888"
-  ],
+  "keywords": ["แทงมวยออนไลน์","แทงมวยออนไลน์ Slot888"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
