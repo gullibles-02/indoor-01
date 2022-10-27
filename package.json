@@ -1,10 +1,16 @@
 {
-  "name": "Mzw3AdyHZgwZa5ThOzmF3w2Ct5e3KPJPHmz0g3vUkMkqICtoTg",
+  "name": "uwin789 เข้าสู่ระบบ เล่นยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.36",
   "description": "uwin789 เข้าสู่ระบบ ต้องบอกเลยว่า ตาม uwin789 เข้าสู่ระบบ Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด ถ้าจะต้องซื้อหวยญี่ปุ่น ที่น่าเชื่อถือ และเป็นที่ยอม",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["UWIN789 เข้าสู่ระบบ","UWIN789","เข้าสู่ระบบ","UWIN789 Huay Happy","เข้าสู่ระบบ Huay Happy"],
+  "keywords": [
+    "UWIN789 เข้าสู่ระบบ",
+    "UWIN789",
+    "เข้าสู่ระบบ",
+    "UWIN789 Huay Happy",
+    "เข้าสู่ระบบ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
