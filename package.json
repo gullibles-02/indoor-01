@@ -1,10 +1,13 @@
 {
-  "name": "fwxdYjiu5RWPxXvU5agJUE8uZRC603QffAWzOtrWvBZ1dMQP5U",
+  "name": "f1bet สรุปว่าอะไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.45",
   "description": "F1bet โดยการออกสลากในทุกๆครั้งจะมีการถ่ายทอดสด ทั้งนี้ F1bet ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง Oopsnew.Com ขอทำหน้าที่เป็นสื่อกลางในการแนะนำช่องทางในการร",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["F1BET","F1BET Ruay"],
+  "keywords": [
+    "F1BET",
+    "F1BET Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
