@@ -1,13 +1,10 @@
 {
-  "name": "ผลหวยหุ้นเยอรมัน คืออะไร - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "aU7k3ofdijqoS4JW2ReXaFQXmGFlNLyGLBBxqsb2Q3wQcDnuS5",
   "theme": "syntax",
   "version": "1.1.13",
   "description": "ผลหวยหุ้นเยอรมัน หวยออนไลน์ ได้แก่ ผลหวยหุ้นเยอรมัน Choke โชค หวยออนไลน์ มีหวยทุกชนิด ครบเครื่องเรื่อง ผลหวยหุ้นเยอรมัน หวย กับทุกสิ่งที่ต้องรู้ก่อน แทงหวย",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "ผลหวยหุ้นเยอรมัน",
-    "ผลหวยหุ้นเยอรมัน Choke"
-  ],
+  "keywords": ["ผลหวยหุ้นเยอรมัน","ผลหวยหุ้นเยอรมัน Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
