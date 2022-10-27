@@ -1,10 +1,13 @@
 {
-  "name": "Z4PjeHAS9UxLGsAm7Ny35mMNaS4lJllyVA6mb56OTNg2ozzdy2",
+  "name": "เล่นสล็อต ดูยังไง-",
   "theme": "syntax",
   "version": "1.0.87",
   "description": "เล่นสล็อต เว็บไซต์ดังที่ใครๆ ถึง เล่นสล็อต ที่ Alpha88 เว็บพนัน อันดับหนึ่ง Lagalaxy88 ก็รู้จัดเพราะด้วยการมีระบบฝาก-ถอน อัจฉริยะ ทำให้เว็บนี้เป็นที่รู้จัก",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["เล่นสล็อต","เล่นสล็อต Alpha88"],
+  "keywords": [
+    "เล่นสล็อต",
+    "เล่นสล็อต Alpha88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
