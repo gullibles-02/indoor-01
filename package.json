@@ -1,13 +1,10 @@
 {
-  "name": "เกมพนัน ดูที่ไหน",
+  "name": "7qAY2nNTG05fPtfXGFeWIzZkT1pJiuOzSxitrPbJ2hyOpTZKD7",
   "theme": "syntax",
   "version": "1.0.75",
   "description": "เกมพนัน เว็บพนันเปิดรับสมาชิกใหม่ตลอดเวลา เนื่องแต่ เกมพนัน ที่ M88 เว็บพนัน อันดับหนึ่ง ผู้สนใจติดต่อแจ้งความต้องการที่จะ สมัครบาคาร่า กับแอดมินผ่านทางไลน",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "เกมพนัน",
-    "เกมพนัน M88"
-  ],
+  "keywords": ["เกมพนัน","เกมพนัน M88"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
