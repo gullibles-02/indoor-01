@@ -1,13 +1,10 @@
 {
-  "name": "โบนัสฟรี คืออะไร",
+  "name": "VmH38YnEq8p511vjbV5s38iAFsJbPwcODefu8dmVeQbVb00ort",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "โบนัสฟรี สวัสดีครับสมาชิกผู้ติดตาม อย่างไรก็ตาม โบนัสฟรี ที่ HotGraph88 เว็บพนัน อันดับหนึ่ง Stakehow โบนัสฟรี ทุกท่านครับ วันนี้ผมจะมาแนะนำเว็บ เล่นสล็อตค",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "โบนัสฟรี",
-    "โบนัสฟรี HotGraph88"
-  ],
+  "keywords": ["โบนัสฟรี","โบนัสฟรี HotGraph88"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
