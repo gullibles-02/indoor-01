@@ -1,10 +1,13 @@
 {
-  "name": "FTF5ix6lxQ1lIQgnqlQvtkMl70sErtbG4I7ppA5OjB2JWPd8Ge",
+  "name": "ผลหวยเฮียพูน ดูยังไง - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.62",
   "description": "ผลหวยเฮียพูน เกมสูงต่ำ ถ้า ผลหวยเฮียพูน 77Lotto หวยออนไลน์ อันดับหนึ่ง ( ไฮโล ) หรือ เกมทอยเต๋า เกมมือถือเล่นง่าย ได้เงินจริง เป็นอีกหนึ่งเกมทำเงินดีๆจากเว",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["ผลหวยเฮียพูน","ผลหวยเฮียพูน 77Lotto"],
+  "keywords": [
+    "ผลหวยเฮียพูน",
+    "ผลหวยเฮียพูน 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
