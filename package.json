@@ -1,16 +1,10 @@
 {
-  "name": "ตลาดหุ้น ฮ่องกงปิด แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "a5EYk3Pt2G48oJp2IRrIZ4NxFufuLvG2YTjwT9oduQIMYyY2zg",
   "theme": "syntax",
   "version": "1.1.90",
   "description": "ตลาดหุ้น ฮ่องกงปิด โปรโมชั่นวันนี้ ด้วย ตลาดหุ้น ฮ่องกงปิด Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด มีโบนัสแนะนำเพื่อน ทุกยอดการซื้อหวยออนไลน์ ล็อตโต้ ",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "ตลาดหุ้น ฮ่องกงปิด",
-    "ตลาดหุ้น",
-    "ฮ่องกงปิด",
-    "ตลาดหุ้น Masurebet",
-    "ฮ่องกงปิด Masurebet"
-  ],
+  "keywords": ["ตลาดหุ้น ฮ่องกงปิด","ตลาดหุ้น","ฮ่องกงปิด","ตลาดหุ้น Masurebet","ฮ่องกงปิด Masurebet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
