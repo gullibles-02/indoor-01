@@ -1,20 +1,10 @@
 {
-  "name": "ดูผลหวย นิ เค อิ เล่นที่ไหน - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "OCBPrmfa2QnQJSRVmPdIKP5OXOVNHcHXuPLzD7lwjdaDon1yiI",
   "theme": "syntax",
   "version": "1.2.1",
   "description": "ดูผลหวย นิ เค อิ สมาชิกท่านใดที่ต้องการซื้อหวยหุ้นเกาหลี ตั้งแต่ ดูผลหวย นิ เค อิ ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง หรือ ซื้อหวยหุ้นออนไลน์ ไม่ต้องไปที่",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": [
-    "ดูผลหวย นิ เค อิ",
-    "ดูผลหวย",
-    "นิ",
-    "เค",
-    "อิ",
-    "ดูผลหวย Choke",
-    "นิ Choke",
-    "เค Choke",
-    "อิ Choke"
-  ],
+  "keywords": ["ดูผลหวย นิ เค อิ","ดูผลหวย","นิ","เค","อิ","ดูผลหวย Choke","นิ Choke","เค Choke","อิ Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
