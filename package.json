@@ -1,10 +1,16 @@
 {
-  "name": "JjF9KGpiQH7jjYb8k9s8q8htLd9O9CbzH87N3MhhtFjssE3HO4",
+  "name": "หุ้น egx30 สมัครยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.74",
   "description": "หุ้น EGX30 หวยหุ้นเกาหลีคืออะไร เท่ากับ หุ้น EGX30 Jetsadabet หวยออนไลน์ อันดับหนึ่ง จ่ายบาทละเท่าไหร่ ที่นี่เรามีคำตอบอัตราการจ่ายเงินรางวันของ หวยหุ้นเกา",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["หุ้น EGX30","หุ้น","EGX30","หุ้น Jetsadabet","EGX30 Jetsadabet"],
+  "keywords": [
+    "หุ้น EGX30",
+    "หุ้น",
+    "EGX30",
+    "หุ้น Jetsadabet",
+    "EGX30 Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
