@@ -1,10 +1,13 @@
 {
-  "name": "n6KPGN2qyPzPQa0uo0sY8JcNHsEZHn6waqWPuCaplwL0hbMMl1",
+  "name": "ข่าวหุ้นเยอรมัน สมัครยังไง - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.77",
   "description": "ข่าวหุ้นเยอรมัน ผลการออกรางวัล ใน ข่าวหุ้นเยอรมัน ที่ Huay24 เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย Vip",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["ข่าวหุ้นเยอรมัน","ข่าวหุ้นเยอรมัน Huay24"],
+  "keywords": [
+    "ข่าวหุ้นเยอรมัน",
+    "ข่าวหุ้นเยอรมัน Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
