@@ -1,10 +1,13 @@
 {
-  "name": "FlcAjLxG3svtC7Y4o7Di6pXWzpBVhHznrRMV9CJ2vgNtJyKzrY",
+  "name": "ซื้อหวยฮานอยยังไง ทำไมถึงนิยม - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.2.5",
   "description": "ซื้อหวยฮานอยยังไง หวยไทยรัฐ ถึง ซื้อหวยฮานอยยังไง Ruay หวยออนไลน์ อันดับหนึ่ง เป็นชุดยอดนิยมตลอดกาลที่มาในรูปแบบของตารางเลขเด่น เช่นเดียวกับหวยพิชิตชัย 163",
   "repository": "https://github.com/gullibles-02/indoor-01",
-  "keywords": ["ซื้อหวยฮานอยยังไง","ซื้อหวยฮานอยยังไง Ruay"],
+  "keywords": [
+    "ซื้อหวยฮานอยยังไง",
+    "ซื้อหวยฮานอยยังไง Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
